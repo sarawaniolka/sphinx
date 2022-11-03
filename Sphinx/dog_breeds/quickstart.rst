@@ -12,7 +12,7 @@ You can create an instance of a Labrador Retriever called ``dog``, for example, 
 
 .. code::
 
-    >>> import dog_breeds.py
+    >>> import dog_breeds
     >>> dog = breeds.Labrador()
     >>> dog.describe_breed()
 
